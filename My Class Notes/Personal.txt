@@ -1,0 +1,83 @@
+create table:
+------------
+
+Syntax: create  table table_name(student_id Int,student_name varchar)
+
+EX:create  table Studnet_info(student_id Int,student_name varchar)
+
+How tom see table or table data?
+
+syntax: Seclect *from table_name;
+
+How to  insert data into table?
+
+syantax: Insert into table_name(column1 data , column 2 ) values(values)
+EX:Insert into student_info values(100,'kiran') 
+or
+insert into student_info(student_ID, Student name) values(100,'kiran'
+
+How to add how to add 100 students data?
+
+Insert into student_info values(101, 'ramesh'),(101, 'ramesh'),(101, 'ramesh'),(101, 'ramesh'),(101, 'ramesh'),(101, 'ramesh')...ect
+======================================================================
+19/02/2024      
+Activities:         1) SQL Class video and pracctice
+-----------         2) jeometer small project 
+                    3) Automation Revision
+              
+                       a.starting to variables
+                    
+                    4) Automation Class recording video and practice
+                    5) Apply applications
+
+
+
+
+
+1)How many type of 5s?
+  the five S's are translated as Sort, Set in Order, Shine, Standardize, and Sustain....
+
+2)What Is Kaizen?
+-> Kaizen is a Japanese business philosophy that focuses on continuous improvement.
+
+-> Kaizen emphasizes small, incremental changes to improve processes and systems.
+
+-> It involves the participation of all employees in identifying and implementing     improvements.
+
+-> Kaizen aims to eliminate waste, increase efficiency, and enhance quality.
+
+->Examples of kaizen include implementing standardized work procedures, using visual     management tools, and conducting regular team meetings to discuss improvement ideas.
+****************************************************************
+
+
+Tell me about Your self :
+-----------------------------
+My Self ADAPA KIRANKUMAR from Andhra Pradesh , I am currently staying Hyderabad . I have 1.6 Years of Experience in manual testing in  Ecommerce Domain . My Higher Education   Masters Degree  in Krishna University  Machilipatnam .   My Strengths is  I am a  quick learner , team player , positive attitude and good  patience . My weaknesses is My Hand  Writing ,I will try in last 6 months  to Overcame but  do it . In IT Sector   Starting My Carrier is  2022 QA Engineer role , In Quality thought Techknologies Hyderabad. I Have Involved in  2 Projects Home goods and Baggies , Home Goods is US Project  Ecommerce  Domain  and baggies  is  also  Ecommerce  Domain.  My Skills    Understand the Requirements and  Prepare Test scenarios  , writing Test cases and executing , Identify Defects,    Actively Participate in  sprint Planning Meetings , Scrum Meetings , I have Knowledge on SQL , Automation  Selenium with Java this my self.
+
+
+20/02/2023:
+------------
+
+Prepare  Selft Introduction and Practice mirror 
+
+Explain  your project detailed and practice mirror 
+ 
+SQL Prepareation and Pracctice 
+
+Automation Revision and Pracctice 
+
+Automation preparation and Pracctice 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

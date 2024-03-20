@@ -1,0 +1,3 @@
+Regression Testing
+------------------
+Regression Testing is Type of Software Testing the aim Of Regression Testing is to ensure  add any new fetures of software application to check impact of previously features is known as Regression testing     

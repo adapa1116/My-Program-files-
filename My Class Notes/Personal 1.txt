@@ -1,0 +1,26 @@
+Interview Quastions:
+---------------------
+1)What are your role and responsibility as a software tester?”
+
+ * Run the test case manually.
+ * Perform regression testing.
+ * Log all the defects. Communicate nicely with the developer.
+
+
+
+* Reviewing and analyzing system specifications
+* Executing test scripts and reviewing results
+* Reporting and documenting technical issues
+* Execute test cases (manual or automated) and  analyze results
+* Evaluate product code according to  specifications
+* Create logs to document testing phases and   defects
+* Report bugs and errors to development teams
+* Help troubleshoot issues
+* Working knowledge of test management software (JIRA) and SQL
+*Familiarity with Agile frameworks and  regression testing
+*Experience in project management and QA  methodology 
+==============================================================
+
+
+
+

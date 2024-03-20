@@ -1,0 +1,13 @@
+New Framework project;
+*************************
+Project Url:http://demo.guru99.com/v4
+User ID :	mngr550919
+Password :	AhasUne
+
+Stages/phases:
+--------------
+1)Implimantation 
+2)Execution
+3)maintanance
+
+

@@ -1,0 +1,12 @@
+I AM Vijay , am a skilled manual QA professional with 3.9 years of experience.
+
+MANUAL TESTING:
+*Experience in Manual Testing with Test plan, Test Design, Defect Management.
+*Experience working in web technologies and Client-Server Architecture.
+*Strong Debugging and Analytical skills, Quick Learner, strong Training Skills.
+*Strong Knowledge on software testing concepts.
+*Strong Knowledge in SDLC life cycles.
+*Strong Knowledge in STLC life cycles and Defect life cycle (DLC).
+*Defect reporting using JIRA. Maintain Agile process in JIRA.
+*Knowledge on Performance testing& Usabillity testing.
+*Knowledge on Smoke Test, Black Box Test, Functional, UAT, GUI Testing, Integration, Regression, System, End to End testing, Acceptance Scenarios and Test Cases.
